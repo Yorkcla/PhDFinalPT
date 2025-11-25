@@ -40,6 +40,24 @@ html, body {
 }
 
 /* =============================
+   Responsive Design: Mobile Fix
+============================= */
+@media (max-width: 768px) {
+  .container {
+    width: 100%;
+    max-width: 100%;
+    padding: 1.5rem 1rem 3rem;
+  }
+
+  h1 { font-size: 1.7rem; }
+  h2 { font-size: 1.2rem; }
+
+  .zoomable.active {
+    transform: scale(1.5);
+  }
+}
+
+/* =============================
    Typography
 ============================= */
 h1 {
