@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@300;400;500;600;700&display=swap');
 
-
 /* =============================
    Base Reset & Layout
 ============================= */
@@ -13,8 +12,8 @@
 html, body {
   height: 100%;
   font-family: "Work Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  background-color: #e9f2f9; /* 은은한 하늘색 배경 */
-  color: #1e2a33;           /* 짙은 청회색 텍스트 */
+  background-color: #e9f2f9; 
+  color: #1e2a33;        
   line-height: 1.7;
   font-weight: 300;
   -webkit-font-smoothing: antialiased;
@@ -27,13 +26,12 @@ html, body {
   width: 60%;
   margin: 0 auto;
   padding: 3rem 2rem 5rem;
-  background: #f8fbff; /* 살짝 밝은 푸른 흰색 */
+  background: #f8fbff; 
   border-radius: 12px;
   box-shadow: 0 4px 25px rgba(30, 42, 51, 0.1);
   border: 1px solid rgba(200, 220, 240, 0.6);
 }
 
-/* Optional: subtle hover glow if interactive */
 .container:hover {
   box-shadow: 0 8px 30px rgba(30, 42, 51, 0.15);
   transition: box-shadow 0.3s ease;
@@ -142,13 +140,13 @@ audio, video {
    Links
 ============================= */
 a {
-  color: #2f6bcb; /* 기본 링크: 진한 블루 */
+  color: #2f6bcb; 
   text-decoration: none;
   transition: color 0.2s ease;
 }
 
 a:hover {
-  color: #5fa8ff; /* hover 시 밝아지는 파란색 */
+  color: #5fa8ff; 
   text-decoration: underline;
 }
 
@@ -179,7 +177,7 @@ footer {
 
 .nav a {
   padding: 0.6rem 1.2rem;
-  background: white; /* 조금 더 밝은 블루 */
+  background: white; 
   color: black;
   border-radius: 8px;
   font-size: 0.95rem;
