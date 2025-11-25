@@ -51,7 +51,7 @@ html, body {
   h2 { font-size: 1.2rem; }
 
   .zoomable.active {
-    transform: scale(1.5);
+    transform: none !important;
   }
 }
 
