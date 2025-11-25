@@ -23,9 +23,9 @@ From this central question, three sub-questions emerged, each addressing a diffe
 
 - RQ1: **How can principles of tonal music inform and structure sonic interaction design?**
 
-- RQ2: **How do practitioners approach sonic interaction design and incorporate musical tension and release in their design?**
+- RQ2: **How do practitioners approach sonic interaction design and incorporate tonal tension and release in their design?**
 
-- RQ3: **How can creativity support tools help designers apply musical tension and release in sonic interaction design?**
+- RQ3: **How can creativity support tools help designers apply tonal tension and release in auditory interface design?**
 
 These questions guided the research across five interconnected projects. An initial planning stage, *Project 0*, defined the overall scope and aims. *Projects 1 and 4* addressed the first question through a systematic literature review and the development of a design framework. *Projects 2, 3, and 4* investigated practitioners’ needs and envisioned a prototype and a framework grounded in their design contexts. The final question was examined through *Projects 2, 3, and 5*, which together formed an iterative process of prototype development, implementation, and evaluation, leading to the final creativity support tool. *Project 5*, in particular, addressed a broad research question in a manner similar to *RQ 0*, serving as a final project.
 
