@@ -17,7 +17,7 @@ In this presentation, I will share my PhD journey exploring musical tension and 
 
 My PhD contributes to both research and practice by applying tonal principles to sonic interaction design and enhancing practical accessibility through a framework and a design support tool, each validated through multiple evaluations. This work addresses a gap in the interdisciplinary areas of sound, music, and human–computer interaction by applying structured musical knowledge to challenges in design practice, enabled through computational design assistance. These contributions demonstrate the practical value of tonal cognition for supporting designers in creating effective sonic interactions for end-users.
 
-<img src="/assets/images/overview.jpg" alt="Research Overview" width="900" height="auto" class="zoomable" onclick="this.classList.toggle('active')">
+<img src="assets/images/overview.jpg" alt="Research Overview" width="900" height="auto" class="zoomable" onclick="this.classList.toggle('active')">
 
 ## Section
 
