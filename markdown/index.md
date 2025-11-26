@@ -26,7 +26,7 @@ This presentation is divided into four sections:
 - [Research Structure — What did the study explore?](sections/intro.html)
 - [Framework Illustration — How does musical tension and release work?](sections/demo.html)
 - [Research Project — How was the study conducted?](sections/projects.html)
-- [Reflection and Insight — What are the takeaways?](sections/reflection.html)
+- [Discussion — What are the takeaways?](sections/reflection.html)
 
 ---
 

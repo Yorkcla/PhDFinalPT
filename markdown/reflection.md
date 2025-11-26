@@ -1,5 +1,19 @@
 # What are the takeaways?
 
+## Answering to the Research Questions
+
+### RQ1: How can principles of tonal music inform and structure sonic interaction design?
+
+Tonal music has already been used in various forms within sonic interaction design, and its underlying concepts often appear across different domains even when explicit tonal terminology is not visible. However, to use these principles more effectively in research and design practices, it is essential to ground them in a clear theoretical understanding and apply them in a structured manner. Furthermore, because sonic interaction design is inherently interdisciplinary, tonal concepts need to be articulated in an accessible form so that designers and researchers without a musical background can readily understand and apply them.
+
+### RQ2: How do practitioners approach sonic interaction design and incorporate tonal tension and release in their design?
+
+Sound design involves collaboration among practitioners from different roles and fields, so it cannot be defined only by those who create sounds. Because backgrounds in music and interaction design vary widely, effective communication across different expertise is essential, which requires language that a broad range of users can understand. This interdisciplinary nature also expands the target users of design tools, while the specialised terminology in each domain adds complexity to communication and practical application. Practitioners often begin with concrete and physical setups and gradually move toward more abstract considerations, and although much of their work is intuitive, they are frequently asked to justify their decisions clearly. In sound design that incorporates tonal knowledge, most practitioners lack formal training in music theory unless they have studied music academically. Therefore, it is important to provide accessible design templates such as presets that can support diverse expertise and practical use.
+
+### RQ3: How can creativity support tools help designers apply tonal tension and release in auditory interface design?
+
+Matching the harmonic functions to the cognitive flow of user interaction can be an effective strategy for auditory interface design, and this strategy can be implemented through supporting tools that improve accessibility and practical use for practitioners. Generative AI can automate workflow structuring, chord assignment, and chord selection based on harmonic functions, and the tool’s interface should guide and complement these design processes. The tool should provide immersive creative support beyond basic usability and offer additional options for users with stronger musical knowledge. AI-based assistance must balance automated features with meaningful manual engagement to support agency and ownership in creativity, and the tool should accommodate diverse preferences and detailed requirements across iterative design processes.
+
 ## Reflections after Projects
 
 ### Project 1: Understanding Conventions in an Interdisciplinary Research Landscape
