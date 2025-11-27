@@ -58,7 +58,7 @@ Also, most modern pop music includes lyrics, giving it a narrative that aligns w
 
 <img src="../assets/images/speechless.jpg" alt="Speechless Analysis" width="700" height="auto" class="zoomable" onclick="this.classList.toggle('active')">
 
-In *Speechless from Aladdin*, the song expresses Jasmine’s determination to claim her own identity, declaring *“I won’t be silenced.”* This narrative is reinforced by a chordal tension–release progression that aligns with the story, guiding listeners through an emotional arc that mirrors Jasmine’s struggle and eventual empowerment *(00:39 - 01:09)*. 
+In *Speechless from Aladdin*, the song expresses Jasmine’s determination to claim her own identity, declaring *“I won’t go speechless.”* This narrative is reinforced by a chordal tension–release progression that aligns with the story, guiding listeners through an emotional arc that mirrors Jasmine’s struggle and eventual empowerment *(00:39 - 01:09)*. 
 
 ---
 
