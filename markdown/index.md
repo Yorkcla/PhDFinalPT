@@ -3,7 +3,7 @@
 Hi everyone! I’m Minsik Choi, a PhD researcher in sonic interaction design at SMACC Lab, ANU.
 I will be presenting my PhD Oral Presentation on **Friday, 28 November, at 10 am in Room 3.41, Building 145**, and everyone is welcome to join 🤠
 
-My research explores how musical principles can guide sound design practitioners in creating more communicative and intutiive sounds. I have developed a creativity support tool that bridges music, design, and AI to make sound design more intuitive and accessible for both designers and end-users.
+My research explores how musical principles can guide sound design practitioners in creating more communicative and intuitive sounds. I have developed a creativity support tool that bridges music, design, and AI to make sound design more accessible for both designers and end-users.
 
 Join me to see how musical tension and release come to life through interactive sound design 🎵
 
