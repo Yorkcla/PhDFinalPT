@@ -11,7 +11,7 @@ Here is a short demonstration that illustrates *the musical tension and release*
         allowfullscreen>
 </iframe>
 
-Before we begin, this short clip from *Copying Beethoven* illustrates how musicians have historically paid close attention to shaping tension and release, especially through structural principles. In this scene, Anna comes to assist Beethoven with the premiere of the Ninth Symphony. He initially dismisses her, as he often did with female musicians, but eventually recognises her understanding of the structural elements of his music and how they create tension and release.
+Before we begin, this short clip from *Copying Beethoven* illustrates how musicians have historically paid close attention to shaping tension and release, especially through structural principles. In this scene, Anna(copyist) comes to assist Beethoven with the premiere of the Ninth Symphony. He initially dismisses her, as he often did with female musicians, but eventually recognises her understanding of the structural elements of his music and how they create tension and release.
 
 <iframe id="myPlayer" width="700" height="500"
         src="https://www.youtube.com/embed/cep8Ru4TL4k?enablejsapi=1"
@@ -19,7 +19,7 @@ Before we begin, this short clip from *Copying Beethoven* illustrates how musici
         allowfullscreen>
 </iframe>
 
-Beethoven’s Ode to Joy theme in the fourth movement of the Ninth Symphony has a simple chordal structure based on tonic, dominant, and tonic to establish a musical progression, along with several secondary dominant chords, brief passing dominant–tonic motions, and the use of non-chord tones. Beethoven takes this compact functional structure and extends it across the entire movement, using diverse variations and combinations of musical elements.
+Beethoven’s theme in the fourth movement of the Ninth Symphony has a simple chordal structure based on tonic, dominant, and tonic to establish a musical progression, along with several secondary dominant chords, brief passing dominant–tonic motions, and the use of non-chord tones. Beethoven takes this compact functional structure and extends it across the entire movement, using diverse variations and combinations of musical elements.
 
 <img src="../assets/images/theme.jpg" alt="Theme Analysis" width="700" height="auto" class="zoomable" onclick="this.classList.toggle('active')">
 
@@ -33,7 +33,7 @@ As the theme progresses further, the full orchestra presents it for the first ti
 
 The movement does not rely only on instrumental timbre. One of its most distinctive features is the inclusion of voices. The theme appears with the baritone, accompanied by playful clarinet and oboe lines. This section unfolds like a quartet texture, offering a more sophisticated harmonic flow. <button onclick="jumpTo(414)">BaritonClaOb</button> <button onclick="jumpTo(462)">Choir</button> <button onclick="pauseVideo()">Ⅱ</button>
 
-After these stages, Beethoven introduces a higher-level structural tension before the climax. He moves through relative keys using modal mixture, as seen in the earlier example from Copying Beethoven. This creates a stronger structural buildup of tension, which is then released through the explosive climactic version of the theme. <button onclick="jumpTo(715)">ClimaxTension</button> <button onclick="jumpTo(729)">Climax</button> <button onclick="pauseVideo()">Ⅱ</button>
+After these stages, Beethoven introduces a higher-level structural tension before the climax. He moves through relative keys and mixture chords, as seen in the earlier example from Copying Beethoven. This creates a stronger structural buildup of tension, which is then released through the explosive climactic version of the theme. <button onclick="jumpTo(715)">ClimaxTension</button> <button onclick="jumpTo(729)">Climax</button> <button onclick="pauseVideo()">Ⅱ</button>
 
 The important point is that, despite the different variations and musical factors, the tension–release progression ultimately stays rooted in the underlying harmonic structure, as shown in the Ninth Symphony. This structural principle has shaped modern tonal traditions and continues to influence much of today’s popular music that many of us hear every day.
 
