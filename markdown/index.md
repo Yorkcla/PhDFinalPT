@@ -2,9 +2,7 @@
 
 Hi everyone! I’m Minsik Choi, a PhD researcher in Computer Science and HCI, focusing on sonic interaction design at ANU 🤠
 
-My research explores how musical principles can inform sound design practice to support the creation of intuitive sound interfaces. I have developed a creativity support tool that bridges music, sound, design, and AI, making sound interface design more accessible to both designers and end-users.
-
-Here’s how musical tension and release take shape in interactive sound design 🎵
+My research explores how musical principles can inform sound design practice to support the creation of intuitive sound interfaces. I have developed a creativity support tool that bridges music, sound, design, and AI, making sound interface design more accessible to both designers and end-users. Here’s how musical tension and release take shape in interactive sound design 🎵
 
 ---
 
