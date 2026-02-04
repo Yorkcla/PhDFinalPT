@@ -2,13 +2,13 @@
 
 Hi everyone! I’m Minsik Choi, a PhD researcher in Computer Science and HCI, focusing on sonic interaction design at ANU 🤠
 
-My research explores how musical principles can inform sound design practice to support the creation of intuitive sound interfaces. I have developed a creativity support tool that bridges music, sound, design, and AI, making sound interface design more accessible to both designers and end-users. Here’s how musical tension and release take shape in interactive sound design 🎵
+My research explores how musical principles can inform sound design practice to support the creation of intuitive auditory interfaces. I have developed a creativity support tool that bridges music, sound, design, and AI, making auditory interface design more accessible to both designers and end-users. Here’s how musical tension and release take shape in interactive sound design 🎵
 
 ---
 
 ## Overview
 
-When we listen to tonal music across different genres, we naturally sense tension and release as the sound progresses. This is because we intuitively follow the cognitive flow shaped by tonal structures and their interplay with broader musical elements. Understanding these tonal dynamics offers persuasive possibilities for designing intuitive sonic interactions through sound interface design, supported by AI applications that enhance practitioner accessibility.
+When we listen to tonal music across different genres, we naturally sense tension and release as the sound progresses. This is because we intuitively follow the cognitive flow shaped by tonal structures and their interplay with broader musical elements. Understanding these tonal dynamics offers persuasive possibilities for designing intuitive sonic interactions through auditory interface design, supported by AI applications that enhance practitioner accessibility.
 
 In this overview, I will share my PhD journey exploring musical tension and release in sonic interaction design through the development of a practical design framework and a creativity support tool. I will begin with an overview of the research, outlining its purpose, research questions, and methods, along with the five projects that were conducted. I will then introduce the design framework that brings musical tension and release into sonic interaction design, followed by a walkthrough of each project to illustrate how they shaped the final design tool and supported the practical application of tonal principles. To conclude, I will reflect on the outcomes across projects and discuss the broader contributions and implications of this work.
 
